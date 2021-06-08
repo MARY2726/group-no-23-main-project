@@ -1,5 +1,5 @@
 # group-no-23-main-project
-Snakebite Identification & Detection  With Snakebite Mark Using Machine Learning Approach
+Snakebite  Detection & Identification   With Snakebite Mark Using Machine Learning Approach
 
 
 Snakebite envenoming is a potentially life-threatening disease caused by toxins in
